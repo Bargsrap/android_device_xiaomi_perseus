@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_perseus.mk
+    $(LOCAL_DIR)/syberia_perseus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_perseus-user \
-    lineage_perseus-userdebug \
-    lineage_perseus-eng
+    syberia_perseus-user \
+    syberia_perseus-userdebug \
+    syberia_perseus-eng
